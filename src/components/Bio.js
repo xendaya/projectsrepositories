@@ -54,7 +54,7 @@ const Bio = React.memo(
         <Stack lineHeight="1.7" spacing={4} ref={ref} {...props}>
           {image}
           <Heading fontWeight="black" fontSize="3xl">
-            Hi, I’m Xetera.
+            Hi, I’m Ketera.
           </Heading>
           <Stack spacing={4} fontSize="16px">
             <Text>
@@ -70,9 +70,7 @@ const Bio = React.memo(
               to life.
             </Text>
             <Text>
-              I’m a simp for functional programming and anti-abuse trust &
-              safety. I also enjoy design and writing on the side when I can
-              find the time.
+               I love functional programming
             </Text>
             <Text>
               As of{" "}
