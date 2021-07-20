@@ -5,4 +5,5 @@ I don't intend on making this a reusable template at the moment but if you feel 
 
 Technologies used:
 > rough-notation (https://www.roughnotation.com)
+
 > chakra ui (https://chakra-ui.com/)
