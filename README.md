@@ -7,3 +7,5 @@ Technologies used:
 > rough-notation (https://www.roughnotation.com)
 
 > chakra ui (https://chakra-ui.com/)
+
+> Google Fonts: Roboto Mono (https://fonts.google.com/specimen/Roboto+Mono?category=Monospace)
