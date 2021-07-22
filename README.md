@@ -9,3 +9,5 @@ Technologies used:
 > chakra ui (https://chakra-ui.com/)
 
 > Google Fonts: Roboto Mono (https://fonts.google.com/specimen/Roboto+Mono?category=Monospace)
+
+> Google Fonts: Barrio (Just search and download it)
