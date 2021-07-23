@@ -1,0 +1,102 @@
+body {
+    background: #FAEBD7;
+}
+
+main {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+}
+
+.grid-one img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-top: 20%;
+    border-radius: 3%;
+    margin-left: 10%;
+}
+
+.flex-container .grid-two {
+    text-transform: uppercase;
+    margin-top: 15%;
+    margin-left: 3%;
+
+}
+
+.grid-one h2 {
+    color: #171923;
+    margin-left: 10%;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Barrio', cursive;
+}
+
+.grid-one h3 {
+    margin-left: 10%;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.grid-one 
+#paragraph-lead,
+#paragraph {
+    display: block;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    opacity: 2;
+    font-size: 17px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 60px;
+    margin-inline-end: 0px;
+}
+
+#paragraph a {
+    font-size: 23px;
+    color: black;
+    padding-right: 8px;
+}
+
+#paragraph a:hover {
+    color: #FF1493;
+    transition: 0.40s;
+}
+
+#lang-two {
+    font-size: 14px;
+    font-weight: bolder;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.js-one,
+.p-one,
+.pa-one,
+.p-two,
+.p-three {
+    font-size: 14px;
+    font-weight: bolder;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 10%;
+}
+
+.grid-two h2 {
+    font-size: 30px;
+    font-family: 'Barrio', cursive;
+    margin-left: 15%;
+}
+
+#lang-one {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.js-one {
+    margin-left: 40%;
+}
+
+
+#js-paragraph,
+#js-typescript,
+#js-react {
+    font-size: 17px;
+}
