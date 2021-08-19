@@ -58,7 +58,7 @@ const Bio = React.memo(
           </Heading>
           <Stack spacing={4} fontSize="16px">
             <Text>
-              I'm currently a full-stack developer at{" "}
+              I'm currently a Front-End developer at{"beejee"}
               <Link
                 href="https://top.gg"
                 rel="external nofollower noopener"
