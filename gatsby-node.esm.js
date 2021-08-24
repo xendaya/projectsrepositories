@@ -39,8 +39,8 @@ export const sourceNodes = async ({
 
 const staticPreviewMapping = {
   "/": () => ({
-    title: "It's me Xetera.",
-    description: "I'm a developer I guess",
+    title: "It's me oxxymerov.",
+    description: "I'm ### I guess",
   }),
 }
 
