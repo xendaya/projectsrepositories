@@ -15,7 +15,8 @@ export async function getOsu() {
   return out
 }
 
-export async function getAnilist() {
+//Profile image visual 
+export const function getAnilist() {
   const response = await fetch("https://graphql.anilist.co/", {
     method: "POST",
     headers: {
