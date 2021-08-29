@@ -3,14 +3,12 @@
 This is a place where I keep my random thought tidbits.
 I don't intend using the current template, but you want it, feel free fork it. I can't stop you, I'm not your momma 
 
-### TECHNOLOGIES:
-> rough-notation (https://www.roughnotation.com)
+### TECHNOLOGIES USED:
+1. Rough-notation (https://www.roughnotation.com)
 
-> chakra ui (https://chakra-ui.com/)
+2. Chakra ui (https://chakra-ui.com/)
 
-> Google Fonts: Roboto Mono (https://fonts.google.com/specimen/Roboto+Mono?category=Monospace)
-
-> Google Fonts: Barrio (Just search and download it)
+3. Google Fonts: Roboto Mono (https://fonts.google.com/specimen/Roboto+Mono?category=Monospace)
 
 ```ts
  function nonAltImages() {
