@@ -1,9 +1,9 @@
-# 📚Blog
+### DOCUMENTATION
 
-> This is a place where I keep my random thought tidbits.
-I don't intend on making this a reusable template at the moment but if you feel like using it for your own blog I can't stop you from forking it. I'm not your mom.
+This is a place where I keep my random thought tidbits.
+I don't intend using the current template, but you want it, feel free fork it. I can't stop you, I'm not your momma 
 
-Technologies used:
+### Technologies used:
 > rough-notation (https://www.roughnotation.com)
 
 > chakra ui (https://chakra-ui.com/)
