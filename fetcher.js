@@ -1,7 +1,7 @@
 import parser from "node-html-parser"
 import fetch from "node-fetch"
 
-const userAgent = "Gatsby worker (https://xetera.dev)"
+const userAgent = "Gatsby worker (https://merovdev.com)"
 
 export async function getOsu() {
   // sorry peppy, it's kind of ridiculous that I can't access public
@@ -26,7 +26,7 @@ export const function getAnilist() {
     body: JSON.stringify({
       query: `
         query UserQuery {
-          user: User(name: "Xetera") {
+          user: User(name: "juengine") {
             statistics {
               anime {
                 count
