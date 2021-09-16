@@ -14,7 +14,7 @@ const staticPagePreview = path.resolve(
 
 export const sourceNodes = async ({
   actions,
-  createNodeId,
+  createNodeI,
   createContentDigest,
 }) => {
   const [anilist, osu] = await Promise.all([getAnilist(), getOsu()])
