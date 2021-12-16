@@ -1,3 +1,4 @@
+// parameter or module
 import React from "react"
 import { Link as GatsbyLink, graphql, PageProps } from "gatsby"
 import Bio from "../components/Bio"
